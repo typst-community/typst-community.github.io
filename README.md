@@ -1,2 +1,2 @@
-# typst-community.github.io
-🌐 typst.community website
+# [typst.community](https://typst.community)
+Sources for the organization site.
